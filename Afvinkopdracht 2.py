@@ -52,3 +52,4 @@ if cookies < 0:
     print("invalid amount")
 else:
     print("You wil need:\n" + str(sugarCupsPerCookie * cookies) + " cups of sugar\n" + str(buttercupsPerCookie * cookies) + " cups of butter\n" + str(flourCupsPerCookie * cookies) + " cups of flour")
+#By Lars Weijenborg
